@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Define a class square"""
+""" Define a class square."""
 class Square:
-    """reapting a square"""
+    """reapting a square."""
     pass
