@@ -5,4 +5,5 @@ Define an empty class Rectangle
 
 
 class Rectangle:
+    """"Represents a rectangle"""
     pass
